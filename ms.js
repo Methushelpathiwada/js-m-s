@@ -27,13 +27,13 @@
 
 //     let myMap = new Map();  
 
-//     strArr.map(ele=>{
+//     strArr.map(m=>{
 //     let count =0
-//     if(!myMap.get(ele)){
-//     myMap.set(ele,++count)
+//     if(!myMap.get(m)){
+//     myMap.set(m,++count)
 //     }else {
-//     let cnt=myMap.get(ele)
-//     myMap.set(ele,++cnt)
+//     let cnt=myMap.get(m)
+//     myMap.set(m,++cnt)
 //     }
 //     console.log(myMap)
 //     })
